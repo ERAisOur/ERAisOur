@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tsuny' alias <a href="https://github.com/Tsunyka" title="Tsunyka's Profile">@Tsunyka</a>
+- 👋 Hi, I’m Tsunÿ alias <a href="https://github.com/Tsunyka" title="Tsunyka's Profile">@Tsunyka</a>
 - 👀 I’m interested in virtual reality, gaming and development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on nothing
