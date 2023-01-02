@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <a href="https://github.com/tsuuny" title="tsuuny's Profile">@Tsuuny</a>
+- 👋 Hi, I’m <a href="https://github.com/avseless" title="tsuuny's Profile">@avseless</a>
 - 👀 I’m interested in virtual reality, gaming and development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on nothing
