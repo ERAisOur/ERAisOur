@@ -2,7 +2,7 @@
 - 👀 I’m interested in virtual reality, gaming and development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me on Discord (Aiko#3060)
+- 📫 How to reach me on Discord (Shazilys#5369)
 
 
 <!---
